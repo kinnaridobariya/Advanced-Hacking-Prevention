@@ -55,3 +55,11 @@ This repository contains lab exercises focused on simulating and preventing netw
 ---
 
 Explore more cybersecurity tools and techniques through the labs listed above.
+
+## License and Copyright
+
+© 2024 Kinnari Dobariya. All rights reserved.
+
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use the contents of this repository as long as proper attribution is given under ethical rules.
+
+Please note that while this content is freely available, unauthorized copying or distribution of the provided lab files for commercial or unethical use is prohibited without explicit permission from the author. If you intend to use any materials for educational or other purposes, please contact me for permission.
